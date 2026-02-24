@@ -22,7 +22,3 @@ Der Code wurde in **Python 3.12** geschrieben. Zur Ausführung der Skripte und N
 * `numpy` (für Vektor- und Matrixoperationen)
 * `scipy` (für die Nullstellensuche der Säkulargleichung)
 * `matplotlib` (für das Plotten der Graphen)
-
-Die Abhängigkeiten können ganz einfach über das Terminal installiert werden:
-```bash
-pip install numpy scipy matplotlib
